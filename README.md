@@ -1,4 +1,4 @@
-# KaranJain
+# Karan Jain
 
 Hello there 👋 I'm Karan Jain <br>
 I'm a Salesforce Developer.<br>
