@@ -22,7 +22,7 @@ Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif
 </h3>
 
 
-
+<!--
 <table>
   <tr>
     <td align="center" width="100" height="100"><img height="40" alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/><br/>Fedora35</td>
@@ -51,5 +51,5 @@ Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif
     <td align="center" width="100" height="100"><img height="40" alt="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/></br>Postman</td>
     <td align="center" width="100" height="100"><img height="40" alt="Jenkins" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"/></br>Jenkins</td>
   </tr>
-</table>
+</table> -->
 
