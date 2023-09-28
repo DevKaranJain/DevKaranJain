@@ -4,13 +4,13 @@
     
 #### 🤩 I'm a Salesforce Developer.<br>
 
-#### 😎 I have a knowledge of Salesforce sales cloud , Marketing cloud , Experience Cloud , Service Cloud 
-   #### other Expertise are JavaScript, NodeJs, PHP 
+#### 😎 I have knowledge of Salesforce sales Cloud, Marketing Cloud, Experience Cloud, Service Cloud 
+   #### Other expertise are JavaScript, NodeJs, PHP 
     
 
 #### 📧 if you need anything related to that  just Mail me <b>Karan.jain.ajmer@gmail.com
 
-#### 👀 Take a look at my [Portfolio](https://devkaranjain.github.io/Portfolio/)
+#### 👀 Take a look at my [Portfolio](https://devkaranjain.github.io/Portfolio/) & checkout my latest [Blogs ](https://medium.com/@karan_sfdc)
 
 #### ✨ I love sharing my knowledge with others, I'am also a prolific open-source enthusiast, and all of my personal projects are built in the open.
 
