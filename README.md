@@ -8,7 +8,7 @@
    #### Other expertise are JavaScript, NodeJs, PHP 
     
 
-#### 📧 if you need anything related to that  just Mail me <b>Karan.jain.ajmer@gmail.com
+#### 📧 if you need anything related to that  just Mail me <b>KaranJainSFDC@gmail.com
 
 #### 👀 Take a look at my [Portfolio](https://devkaranjain.github.io/Portfolio/) 
 
