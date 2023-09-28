@@ -10,7 +10,9 @@
 
 #### 📧 if you need anything related to that  just Mail me <b>Karan.jain.ajmer@gmail.com
 
-#### 👀 Take a look at my [Portfolio](https://devkaranjain.github.io/Portfolio/) & checkout my latest [Blogs ](https://medium.com/@karan_sfdc)
+#### 👀 Take a look at my [Portfolio](https://devkaranjain.github.io/Portfolio/) 
+
+#### checkout my latest [Blogs ](https://medium.com/@karan_sfdc)
 
 #### ✨ I love sharing my knowledge with others, I'am also a prolific open-source enthusiast, and all of my personal projects are built in the open.
 
