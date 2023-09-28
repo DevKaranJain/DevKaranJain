@@ -16,7 +16,7 @@
 
 #### 🔍 You can often find me prattling about all sorts of things over on
 
-[![Twitter Badge](https://img.shields.io/badge/-@imkaranjain-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/imkaranjain)](https://twitter.com/imkaranjain)
+[![Twitter Badge](https://img.shields.io/badge/-@imkaranjain-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/imkaranjain)](https://twitter.com/karan_sfdc)
 [![Linkedin Badge](https://img.shields.io/badge/-imkaranjain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karan-jain-679a77171/)](https://www.linkedin.com/in/karan-jain-679a77171/)
 
 
