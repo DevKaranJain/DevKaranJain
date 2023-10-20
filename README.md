@@ -4,7 +4,7 @@
     
 #### 🤩 I'm a Salesforce Developer.<br>
 
-#### 😎 I have knowledge of Salesforce sales Cloud, Marketing Cloud, Experience Cloud, Service Cloud 
+#### 😎 I have knowledge of Salesforce Sales Cloud, Marketing Cloud, Experience Cloud, Service Cloud 
    #### Other expertise are JavaScript, NodeJs, PHP 
     
 
@@ -12,9 +12,9 @@
 
 #### 👀 Take a look at my [Portfolio](https://devkaranjain.github.io/Portfolio/) 
 
-#### checkout my latest [Blogs ](https://medium.com/@karan_sfdc)
+#### checkout my latest [Blogs ](https://medium.com/@karansfdc)
 
-#### ✨ I love sharing my knowledge with others, I'am also a prolific open-source enthusiast, and all of my personal projects are built in the open.
+#### ✨ I love sharing my knowledge with others, I am also a prolific open-source enthusiast, and all of my personal projects are built in the open.
 
 #### 🔍 You can often find me prattling about all sorts of things over on
 
